@@ -1,4 +1,4 @@
-This will help you do your project.
+Project ideas.
 
 *****************
 Columns
